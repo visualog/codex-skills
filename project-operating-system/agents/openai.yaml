@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Operating System"
+  short_description: "Bootstrap rules and evidence-backed research."
+  default_prompt: "Use $project-operating-system to safely set up project rules and deep research."

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Deep Research"
+  short_description: "근거를 추적하는 심층 조사와 반증 검토를 수행합니다."
+  default_prompt: "Use $codex-deep-research to investigate this question with authoritative sources, counterevidence, and a decision-ready conclusion."
+
+policy:
+  allow_implicit_invocation: true
