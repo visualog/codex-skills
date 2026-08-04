@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reconstruct Reference UI"
+  short_description: "Rebuild reference UIs through measured visual QA."
+  default_prompt: "Use $reconstruct-reference-ui to faithfully rebuild this web reference and verify it through matched browser captures."
